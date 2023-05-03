@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "g++ hello.cpp",
+      "input": "",
+      "output": "123",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    }
+  ]
+}
